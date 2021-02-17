@@ -1,0 +1,21 @@
+{
+  "name": "@heroqu/prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroqu/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config"
+  ],
+  "author": "Heroqu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heroqu/prettier-config/issues"
+  },
+  "homepage": "https://github.com/heroqu/prettier-config#readme"
+}
